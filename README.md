@@ -1,9 +1,11 @@
-#Here is the link to set up the eclipse editor
+# @Caleb
+
+Here is the link to set up the eclipse editor
 https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
 
-#im going to create a branch so i can try and make a get request to the esp32 and which wil turn it off/on based on a paramater from the request. But the msater version of this currently shows the not set variable. 
+im going to create a branch so i can try and make a get request to the esp32 and which wil turn it off/on based on a paramater from the request. But the msater version of this currently shows the not set variable. 
 
-#The below is why the handshake failed i didnt set it up properly @Caleb. Butit did work it just isnt secure :(
+The below is why the handshake failed i didnt set it up properly @Caleb. But the program worked it did work it just isnt secure when you try and send it a request :(
 and will give the handshake error on the log if you look at the console thing. 
 
 # HTTP server with SSL support using OpenSSL
