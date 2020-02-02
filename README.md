@@ -3,6 +3,8 @@
 Here is the link to set up the eclipse editor
 https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
 
+If you get a brownout error it just means you need a better usb cable lol fml :) 
+
 im going to create a branch so i can try and make a get request to the esp32 and which wil turn it off/on based on a paramater from the request. But the msater version of this currently shows the not set variable. 
 
 The below is why the handshake failed i didnt set it up properly @Caleb. But the program worked it did work it just isnt secure when you try and send it a request :(
